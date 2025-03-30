@@ -39,6 +39,5 @@ Conclusion
 This project demonstrates the potential of machine learning in educational analytics. Future work can include additional feature engineering and deep learning models to improve prediction accuracy.
 
 Authors
-John Yepes
-Lorena Benavides
-[Your Name] & Team
+John Yepes &
+Lorena Benavides. 
