@@ -7,7 +7,7 @@ Files
 Code - Predict students' dropout and academic success.ipynb: Jupyter Notebook containing the implementation of machine learning models.
 ML Algorithms to Predict Academic Success - Presentation.pdf: A presentation summarizing the methodology, models used, and key findings.
 
-Methodology
+Methodology 
 Data Preprocessing
 Handling missing values.
 Encoding categorical variables.
